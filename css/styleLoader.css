@@ -1,0 +1,57 @@
+.modal{
+    background-image: url(../img/layer970x250.jpg);
+    width: 970px;
+    height: 250px;
+    margin: 20px auto;
+    box-shadow: 0 4px 4px rgba(0,0,0,.1);
+    transition: 0.7s;
+}
+
+.modal2{
+    background-image: url(../img/frames/carne1v.jpg);
+    width: 970px;
+    height: 250px;
+    margin: 20px auto;
+    box-shadow: 0 4px 4px rgba(0,0,0,.1);
+    transition: 0.7s;
+}
+.modal3{
+    background-image: url(../img/frames/carne2v.jpg);
+    width: 970px;
+    height: 250px;
+    margin: 20px auto;
+    box-shadow: 0 4px 4px rgba(0,0,0,.1);
+    transition: 0.7s;
+}
+.modal4{
+    background-image: url(../img/frames/carne3v.jpg);
+    width: 970px;
+    height: 250px;
+    margin: 20px auto;
+    box-shadow: 0 4px 4px rgba(0,0,0,.1);
+    transition: 0.7s;
+}
+.modal5{
+    background-image: url(../img/frames/perdigao.jpg);
+    width: 970px;
+    height: 250px;
+    margin: 20px auto;
+    box-shadow: 0 4px 4px rgba(0,0,0,.1);
+    transition: 0.7s;
+}
+.modal6{
+    background-image: url(../img/frames/perdigao2.jpg);
+    width: 970px;
+    height: 250px;
+    margin: 20px auto;
+    box-shadow: 0 4px 4px rgba(0,0,0,.1);
+    transition: 0.7s;
+}
+.modal7{
+    background-image: url(../img/frames/perdigao3.jpg);
+    width: 970px;
+    height: 250px;
+    margin: 20px auto;
+    box-shadow: 0 4px 4px rgba(0,0,0,.1);
+    transition: 0.7s;
+}

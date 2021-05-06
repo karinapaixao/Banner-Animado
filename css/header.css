@@ -1,0 +1,37 @@
+body{
+    background: #f7f7f7;
+  margin: 0px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.defaultButton{
+    display: flex;
+    margin: 35px auto;
+    width: 80px;
+    height: 30px;
+    font-family: fantasy;
+    letter-spacing: 1px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;   
+}
+
+.defaultButton:hover{
+    background-color: #b9b5b5;   
+}
+
+header h1{
+    font-family: fantasy;
+    color: rgba(255, 15, 15, 0.932);
+    text-shadow: rgba(0, 0, 0, 0.685) 3px 3px 3px;
+    text-align: center;
+    margin-top: 30px;  
+}
